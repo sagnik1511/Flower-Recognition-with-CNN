@@ -7,7 +7,9 @@ This project shows thhe basic concept of interpreting with unstructured data sto
 
 Language Used :     Python 3.7.2
 
-Libraries Used : 1. tensorflow
+Libraries Used : 
+
+                 1. tensorflow
                  2. pandas
                  3. numpy
                  4. matplotlib
@@ -15,7 +17,9 @@ Libraries Used : 1. tensorflow
                  6. sklearn
                  7. skimage
                  
-Approach :       1. Fetching data and unzipping
+Approach :       
+
+                 1. Fetching data and unzipping
                  2. Reshaping and rescaling the data to create dataframes
                  3. Visualization
                  4. Model Building
@@ -24,7 +28,9 @@ Approach :       1. Fetching data and unzipping
        
 
 
-Model Used :     Sequential ( Conv2D , Dense , Dropout , Flatten )
+Model Used :     
+            
+            Sequential ( Conv2D , Dense , Dropout , Flatten )
 
 Conclusion :     Rather than having only the model predictive values we can find out some different conclusions about the biological correlation of the flowers.
 
