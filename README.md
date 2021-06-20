@@ -1,5 +1,5 @@
 # Flower-Recognition-with-CNN-
-Using Convolutional Neural Network to predict flowers from 5 different types.
+Flower Recognition using custom CNN.
 
 This project is based on the dataset gathered from kaggle - https://www.kaggle.com/alxmamaev/flowers-recognition
 
