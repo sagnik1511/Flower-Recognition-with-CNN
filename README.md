@@ -15,15 +15,6 @@ Link - !kaggle datasets download -d nitin194/doctor-fees-prediction
 
 Language Used :     Python 3.7.2
 
-Libraries Used : 
-
-                 1. tensorflow
-                 2. pandas
-                 3. numpy
-                 4. matplotlib
-                 5. os
-                 6. sklearn
-                 7. skimage
                  
 Approach :       
 
